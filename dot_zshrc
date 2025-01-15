@@ -27,3 +27,5 @@ alias dot="chezmoi"
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+export SSH_AUTH_SOCK="/Users/dholmes/Library/Application Support/art/yubikey.sock"
+
