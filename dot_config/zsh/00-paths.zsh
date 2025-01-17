@@ -1,1 +1,1 @@
-path+=/user/dholmes/bin
+path+=/users/dholmes/bin
